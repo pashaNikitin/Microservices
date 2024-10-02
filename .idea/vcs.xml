@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/MS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring Security" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBootCrud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ДК code/Task-7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ДК code/Task-7-lena" vcs="Git" />
+  </component>
+</project>
